@@ -1,4 +1,4 @@
-![Header](./[github-header-image.png])
+![Header](./github-header-image.png)
 
 <!---
 Koopa0/Koopa0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
