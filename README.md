@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Koopa0
-![Header](./[Your header image])
 
 <!---
 Koopa0/Koopa0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
