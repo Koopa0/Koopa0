@@ -1,6 +1,11 @@
 ![Header](./github-header-image.png)
 
-<!---
-Koopa0/Koopa0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Backend systems engineer
+
+Mostly Go. I care about how the runtime works underneath — value/pointer
+semantics, escape analysis, the GC — and about correctness you can enforce
+at compile time rather than re-assert in prose. Going deep on Rust.
+
+I write about Go internals (seven articles so far), and I run
+[**koopa0.dev**](https://koopa0.dev) — a Go + PostgreSQL system where the
+design work is invariants the type system and the database won't let you violate.
